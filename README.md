@@ -9,8 +9,8 @@
 Оптимизация запасов и закупок актуальна для многих компаний, что делает решение востребованным. Прогнозирование спроса улучшит управление запасами и прибыль.
 
 **Ссылки на датасеты:**  
-- [Walmart Sales Forecasting](https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting)  
-- [Rossmann Store Sales](https://www.kaggle.com/c/rossmann-store-sales)
+- [Продажи супермаркетов](https://ods.ai/datasets/supermarket-sales-prediction)  
+- [Временные ряды продаж товаров](https://www.kaggle.com/datasets/berkansivaci/sales-prediction)
 
 **Плюсы и минусы:**  
 - **Плюсы:** Высокая востребованность, доступные данные.  
@@ -41,8 +41,8 @@
 Автоматизация процесса поиска и подбора сотрудников может существенно упростить работу HR-агентств и крупных компаний.
 
 **Ссылки на датасеты:**  
-- [Resume Dataset](https://www.kaggle.com/datasets/snehaanbhawal/resume-dataset)  
-- [Job Titles and Industries](https://www.kaggle.com/datasets/joshuaortega/job-titles-and-industries)
+- [Резюме и вакансии России](https://www.kaggle.com/datasets/kayannmtru/resume-vacancies-russia)  
+- [Сравнение вакансий и резюме](https://ods.ai/datasets/resumes-vs-vacancies)
 
 **Плюсы и минусы:**  
 - **Плюсы:** Простота в реализации, можно адаптировать под HR-сервисы.  
@@ -73,8 +73,8 @@
 Внедрение таких систем в медицинские учреждения может повысить точность и скорость диагностики, что особенно актуально в удаленных или недостаточно обеспеченных районах.
 
 **Ссылки на датасеты:**  
-- [Chest X-Ray Images (Pneumonia)](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia)  
-- [RSNA Pneumonia Detection Challenge](https://www.kaggle.com/c/rsna-pneumonia-detection-challenge)
+- [Рентгеновские снимки легких (пневмония)](https://www.kaggle.com/datasets/andrewmvd/chest-xray-pneumonia)  
+- [Датасет медицинских изображений для диагностики](https://ods.ai/datasets/cancer-detection)
 
 **Плюсы и минусы:**  
 - **Плюсы:** Перспективная сфера, доступные данные.  
@@ -105,8 +105,8 @@
 Такой инструмент может быть полезен для аналитических и новостных агентств, а также маркетинговых компаний, занимающихся анализом общественного мнения.
 
 **Ссылки на датасеты:**  
-- [News Category Dataset](https://www.kaggle.com/rmisra/news-category-dataset)  
-- [Twitter US Airline Sentiment](https://www.kaggle.com/crowdflower/twitter-airline-sentiment)
+- [Российский новостной датасет](https://ods.ai/datasets/russian-news)  
+- [Сентимент-анализ новостей на русском](https://www.kaggle.com/datasets/ishivinal/news-category-dataset)
 
 **Плюсы и минусы:**  
 - **Плюсы:** Интересная задача NLP, актуальность.  
@@ -137,8 +137,8 @@
 Автоматизированные системы перевода актуальны для бизнеса, работающего с международными рынками.
 
 **Ссылки на датасеты:**  
-- [Tatoeba Translation Challenge](https://www.kaggle.com/datasets/rtatman/tatoeba-translation-challenge)  
-- [WMT (Workshop on Machine Translation)](http://www.statmt.org/wmt20/translation-task.html)
+- [Russian-English Parallel Corpus](https://opus.nlpl.eu/RU-EN.php)  
+- [Tatoeba Translation Challenge](https://www.kaggle.com/datasets/rtatman/tatoeba-translation-challenge)
 
 **Плюсы и минусы:**  
 - **Плюсы:** Востребованность в бизнесе.  
@@ -169,8 +169,8 @@
 Инструменты для финансового прогнозирования и анализа рынка востребованы в аналитических компаниях и банках.
 
 **Ссылки на датасеты:**  
-- [Stock Market Data](https://www.kaggle.com/borismarjanovic/price-volume-data-for-all-us-stocks-etfs)  
-- [Yahoo Finance Stock Prices](https://www.kaggle.com/ehallmar/yahoo-finance-stock-market-data)
+- [Данные по финансовым рынкам России](https://www.finam.ru/profile/moex-akcii/gazprom/export)  
+- [Исторические данные по акциям](https://www.moex.com/ru/marketdata/indices/historyindex.aspx)
 
 **Плюсы и минусы:**  
 - **Плюсы:** Полезность для аналитики, прогнозирование.  
@@ -201,8 +201,8 @@
 Управление репутацией компании в интернете важно для любого бизнеса, особенно в e-commerce и HoReCa.
 
 **Ссылки на датасеты:**  
-- [Amazon Customer Reviews](https://www.kaggle.com/bittlingmayer/amazonreviews)  
-- [Yelp Review Dataset](https://www.yelp.com/dataset)
+- [Отзывы клиентов на русском](https://www.kaggle.com/datasets/sbhatti/flipkart-reviews)  
+- [Сбор данных отзывов с платформы Отзовик](https://otzovik.com)
 
 **Плюсы и минусы:**  
 - **Плюсы:** Востребованность в бизнесе, простота реализации.  
@@ -233,8 +233,8 @@
 Индустриальные компании заинтересованы в технологиях, способных оптимизировать работу оборудования и снизить риски поломок.
 
 **Ссылки на датасеты:**  
-- [NASA Turbofan Engine Degradation Dataset](https://www.kaggle.com/datasets/behrad3d/nasa-cmaps)  
-- [Predictive Maintenance Dataset](https://www.kaggle.com/datasets/patrickoliver26/predictive-maintenance-dataset)
+- [Прогнозирование отказов оборудования](https://ods.ai/datasets/equipment-failure-prediction)  
+- [Датасет для мониторинга оборудования](https://www.kaggle.com/datasets/inIT-UMachine/predictive-maintenance)
 
 **Плюсы и минусы:**  
 - **Плюсы:** Индустриальные применения, высокая точность предсказаний.  
